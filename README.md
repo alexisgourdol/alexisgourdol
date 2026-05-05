@@ -7,5 +7,5 @@ Building data tools and AI-powered utilities<br>
  ┣━━ [scope](https://github.com/alexisgourdol/scope) — A minimal, single-user issue tracker <br>
  ┣━━ [ytsum](https://github.com/alexisgourdol/ytsum) — YouTube transcript downloader and multi-provider AI summarizer<br>
  ┣━━ [bpmfinder-web](https://github.com/alexisgourdol/bpmfinder-web) — A BPM detector running entirely in the browser<br>
- ┃    ┗━━ hosted on https://bpmfinder-web-app.vercel.app/
+ ┃    ┗━━ hosted on https://bpmfinder-web-app.vercel.app/<br>
  ┗━━ [uai-data-website](https://github.com/alexisgourdol/uai-data-website) — UAI data institutional website<br>
