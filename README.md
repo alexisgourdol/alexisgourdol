@@ -9,4 +9,5 @@ Building data tools and AI-powered utilities<br>
  ┣━━ [ytsum](https://github.com/alexisgourdol/ytsum) — YouTube transcript downloader and multi-provider AI summarizer<br>
  ┣━━ [bpmfinder-web](https://github.com/alexisgourdol/bpmfinder-web) — A BPM detector running entirely in the browser<br>
  ┃      ┗━━ hosted on https://bpmfinder-web-app.vercel.app/<br>
- ┗━━ [uai-data-website](https://github.com/alexisgourdol/uai-data-website) — UAI data institutional website<br>
+ ┣━━ [uai-data-website](https://github.com/alexisgourdol/uai-data-website) — UAI data institutional website<br>
+ ┗━━ [songbook](https://songbook-web-nine.vercel.app/) — Samba Songbook hosted on Vercel<br>
