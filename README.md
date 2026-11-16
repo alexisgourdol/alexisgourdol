@@ -9,6 +9,7 @@ Building data tools and AI-powered utilities<br>
  ┣━━ [bpmfinder-web](https://github.com/alexisgourdol/bpmfinder-web) — A BPM detector running entirely in the browser<br>
  ┃      ┗━━ hosted on https://bpmfinder-web-app.vercel.app/<br>
  ┗━━ [uai-data-website](https://github.com/alexisgourdol/uai-data-website) — UAI data institutional website<br>
+ ┗━━ [songbook](https://songbook-web-nine.vercel.app/) — Samba Songbook hosted on Vercel<br>
 
 [substack](https://alexisgourdol.substack.com)
 [x.com](https://x.com/uaidata_alex)
